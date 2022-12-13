@@ -24,6 +24,7 @@ spec:
     metadata:
       labels:
         app: adservice
+        bla: bla
     spec:
       serviceAccountName: default
       terminationGracePeriodSeconds: 5
